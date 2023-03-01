@@ -13,46 +13,211 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Unit03">
-      <UniqueIdentifier>{3d9c7bc1-4ccb-405d-8c23-2b46de13e352}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Unit05">
-      <UniqueIdentifier>{62683739-9c74-4428-8f46-f5b8ec068e93}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Unit07">
-      <UniqueIdentifier>{487897da-3b5f-4251-96f3-108cbd852a75}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello.c">
-      <Filter>소스 파일\Unit03</Filter>
+    <ClCompile Include="Unit03\hello_with_format.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="hello_with_format.c">
-      <Filter>소스 파일\Unit03</Filter>
+    <ClCompile Include="Unit03\practice_hello.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="practice_hello.c">
-      <Filter>소스 파일\Unit03</Filter>
+    <ClCompile Include="Unit03\practice_hello_with_format.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="practice_hello_with_format.c">
-      <Filter>소스 파일\Unit03</Filter>
+    <ClCompile Include="Unit05\variable_multiple_decl.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="variable.c">
-      <Filter>소스 파일\Unit05</Filter>
+    <ClCompile Include="Unit07\practice_variable.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="variable_multiple_decl.c">
-      <Filter>소스 파일\Unit05</Filter>
+    <ClCompile Include="Unit05\variable.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="variable_decl_init.c">
-      <Filter>소스 파일\Unit05</Filter>
+    <ClCompile Include="Unit05\variable_decl_init.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="practice_variable.c">
-      <Filter>소스 파일\Unit05</Filter>
+    <ClCompile Include="Unit07\unsigned_integer.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="integer.c">
-      <Filter>소스 파일\Unit07</Filter>
+    <ClCompile Include="Unit07\integer.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="unsigned_integer.c">
-      <Filter>소스 파일\Unit07</Filter>
+    <ClCompile Include="Unit03\hello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\integer_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\integer_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\integer_type_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\integer_min.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\integer_max_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\integer_min_underflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit05\practice_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\practice_integer_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\practice_integer_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\practice_integer_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\practice_integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\judge_integer_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\judge_integer_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\judge_integer_min.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit07\judge_integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\real_number_exponential_notation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\real_number_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\real_number_min_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\real_number_overflow_underflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\practice_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\practice_real_number_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\practice_real_number_min_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\practice_real_number_under_flow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\judge_real_number_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\judge_real_number_min_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit08\judge_real_number_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\char_ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\char_ascii_hex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\char_zero.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\char_plus.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\char_linefeed.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\char_linefeed_ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\practice_char_tab.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\practice_integer_to_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\judge_char_control.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit09\judge_lowercase_to_uppercase.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\integer_literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\real_number_literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\const.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\const_assign_error.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\integer_literal_suffix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\integer_literal_oct_hex_suffix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\real_number_literal_suffix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\practice_literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\practice_const.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\judge_literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit10\judge_const.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit11\scanf_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit11\scanf_two_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit11\scanf_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit11\scanf_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit11\getchar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit11\putchar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit11\practice_scanf_three_integer.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
