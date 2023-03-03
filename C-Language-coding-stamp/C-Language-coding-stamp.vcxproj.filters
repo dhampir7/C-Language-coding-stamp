@@ -327,5 +327,71 @@
     <ClCompile Include="Unit16\judge_type_demotion.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Unit17\if.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit17\if_semicolon.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit17\if_omit_brace.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit17\if_omit_brace_two_lines.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit17\if_brace_two_lines.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit17\if_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit17\if_scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit17\practice_if_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_else_semicolon.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_else_omit_brace.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_else_omit_brace_two_lines_error.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_else_brace_two_lines.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_0.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_assign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\if_else_multiple_cond_exp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\practice_if_else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit18\practice_if_else_multiple_cond_exp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit19\if_elseif.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit19\if_elseif_else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit19\practice_if_elseif_else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
