@@ -306,9 +306,6 @@
     <ClCompile Include="Unit15\practice_multiples_of_three.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Unit15\소스.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Unit16\type_promotion_int_to_float.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -391,6 +388,42 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Unit19\practice_if_elseif_else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\comparison_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\if__else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\ternary_conditional_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\comparison_ternary_conditional_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\comparison_operator_if_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\comparison_operator_if_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\ternary_conditional_operator_argument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\practice_comparison_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\practice_ternary_conditional_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit20\judge_ternary_conditional_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit22\boolean.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit22\judge_boolean.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

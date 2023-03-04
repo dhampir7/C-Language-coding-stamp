@@ -224,7 +224,6 @@
     <ClCompile Include="Unit15\mod_assign.c" />
     <ClCompile Include="Unit15\mod_variable.c" />
     <ClCompile Include="Unit15\practice_multiples_of_three.c" />
-    <ClCompile Include="Unit15\소스.c" />
     <ClCompile Include="Unit16\judge_type_demotion.c" />
     <ClCompile Include="Unit16\practice_type_promotion.c" />
     <ClCompile Include="Unit16\type_demotion_float_to_int.c" />
@@ -253,6 +252,18 @@
     <ClCompile Include="Unit19\if_elseif.c" />
     <ClCompile Include="Unit19\if_elseif_else.c" />
     <ClCompile Include="Unit19\practice_if_elseif_else.c" />
+    <ClCompile Include="Unit20\comparison_operator.c" />
+    <ClCompile Include="Unit20\comparison_operator_if_integer.c" />
+    <ClCompile Include="Unit20\comparison_operator_if_real_number.c" />
+    <ClCompile Include="Unit20\comparison_ternary_conditional_operator.c" />
+    <ClCompile Include="Unit20\if__else.c" />
+    <ClCompile Include="Unit20\judge_ternary_conditional_operator.c" />
+    <ClCompile Include="Unit20\practice_comparison_operator.c" />
+    <ClCompile Include="Unit20\practice_ternary_conditional_operator.c" />
+    <ClCompile Include="Unit20\ternary_conditional_operator.c" />
+    <ClCompile Include="Unit20\ternary_conditional_operator_argument.c" />
+    <ClCompile Include="Unit22\boolean.c" />
+    <ClCompile Include="Unit22\judge_boolean.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
