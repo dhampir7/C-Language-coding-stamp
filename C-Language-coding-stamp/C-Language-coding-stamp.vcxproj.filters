@@ -426,9 +426,6 @@
     <ClCompile Include="Unit22\judge_boolean.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Unit22\소스.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Unit24\bitwise_shift_power_of_two.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -436,6 +433,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Unit25\judge_bracket.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit26\judge_switch_vending_machine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit29\judge_do_while_sum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit30\judge_exclude_number_ending_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit31\multiple_loop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -264,10 +264,13 @@
     <ClCompile Include="Unit20\ternary_conditional_operator_argument.c" />
     <ClCompile Include="Unit22\boolean.c" />
     <ClCompile Include="Unit22\judge_boolean.c" />
-    <ClCompile Include="Unit22\소스.c" />
     <ClCompile Include="Unit24\bitwise_shift_power_of_two.c" />
     <ClCompile Include="Unit24\judge_bitwise_flag.c" />
     <ClCompile Include="Unit25\judge_bracket.c" />
+    <ClCompile Include="Unit29\judge_do_while_sum.c" />
+    <ClCompile Include="Unit26\judge_switch_vending_machine.c" />
+    <ClCompile Include="Unit30\judge_exclude_number_ending_7.c" />
+    <ClCompile Include="Unit31\multiple_loop.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
