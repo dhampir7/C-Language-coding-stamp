@@ -447,5 +447,11 @@
     <ClCompile Include="Unit31\multiple_loop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Unit34\address.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit34\judge_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
