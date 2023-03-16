@@ -453,5 +453,14 @@
     <ClCompile Include="Unit34\judge_pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Unit35\judge_add_two_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit36\judge_smallest_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit37\judge_transpose_of_matrix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
