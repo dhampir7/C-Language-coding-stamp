@@ -276,6 +276,10 @@
     <ClCompile Include="Unit35\judge_add_two_integer.c" />
     <ClCompile Include="Unit36\judge_smallest_number.c" />
     <ClCompile Include="Unit37\judge_transpose_of_matrix.c" />
+    <ClCompile Include="Unit38\variable_length_array.c" />
+    <ClCompile Include="Unit38\소스.c" />
+    <ClCompile Include="Unit40\scanf_string_array.c" />
+    <ClCompile Include="Unit40\scanf_string_with_space.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

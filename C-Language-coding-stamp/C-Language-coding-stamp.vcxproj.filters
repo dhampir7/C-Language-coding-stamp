@@ -462,5 +462,17 @@
     <ClCompile Include="Unit37\judge_transpose_of_matrix.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Unit38\variable_length_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit38\소스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit40\scanf_string_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit40\scanf_string_with_space.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
